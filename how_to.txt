@@ -1,0 +1,9 @@
+This will take a Amazon Vine products csv file and a ebay csv file and remove items that were sole on eBay and give you the remaining using gemini api key. 
+
+pip install -U google-generativeai pandas
+
+Files:
+
+amazon_products.csv
+
+ebay_orders.csv
